@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_388a1071db5bd63b4eba44bd97eb3b34f2f44f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WhiteElephant\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6f7227c15ebd86e68c34b5e7a09b4fb059129c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WhiteElephant\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\core-3.2.1_d00b6e64bb63de20e4af910acf6b1335df425409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-core-1.9_3c1f8191c167051df3fbc29b26ea842af2c3e88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-zxing-1.9_05679916168f450a7ff9f618c321e09feb5fdc1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_fbe44350e2f77e67ba1cf5dbc55dda89f3eb89ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\exploded-aar\OpenCV-Square-Tracking-Android-JNI-master1\openCVLibrary2411\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08dfb8b1a54cc5280500fc3a4320e5f18cea1357">
+        <dex dex="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\build\intermediates\pre-dexed\debug\OpenCV-Square-Tracking-Android-JNI-master1-openCVLibrary2411-unspecified_e3aa24f94b30e2c7047d9325d61b66db523c45f9.jar" />
+    </item>
+
+</items>

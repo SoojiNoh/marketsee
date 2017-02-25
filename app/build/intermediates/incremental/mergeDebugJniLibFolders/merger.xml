@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\src\main\jniLibs"/><source path="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\src\main\libs"><file name="armeabi-v7a/libnative_sample.so" path="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\src\main\libs\armeabi-v7a\libnative_sample.so"/></source></dataSet><dataSet config="debug"><source path="C:\OpenCV-Square-Tracking-Android-JNI-master1\app\src\debug\jniLibs"/></dataSet></merger>
